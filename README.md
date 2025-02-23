@@ -6,7 +6,7 @@ Ir para o Kodi gestor de ficheiros.
 
 Clicar em "Adicionar fonte"
 
-O endereço para a fonte é  (Dar o nome de "PluginStreaming Vip").
+O endereço para a fonte é https://pluginstreming.github.io/vip/ (Dar o nome de "PluginStreaming Vip").
 
 Ir para "Addons"
 
